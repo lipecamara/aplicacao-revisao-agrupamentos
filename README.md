@@ -1,1 +1,1 @@
-# aplicacao-revisao-agrupamentos
+# aplicacao-revisao-de-agrupamentos
